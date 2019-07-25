@@ -1,0 +1,21 @@
+C:\Users\Администратор.BEST-K858VCP102.001\Documents\Visual Studio 2008\Projects\тетрис\тетрис\obj\Debug\тетрис.exe
+C:\Users\Администратор.BEST-K858VCP102.001\Documents\Visual Studio 2008\Projects\тетрис\тетрис\obj\Debug\тетрис.pdb
+C:\Users\Администратор.BEST-K858VCP102.001\Documents\Visual Studio 2008\Projects\тетрис\тетрис\bin\Debug\тетрис.exe
+C:\Users\Администратор.BEST-K858VCP102.001\Documents\Visual Studio 2008\Projects\тетрис\тетрис\bin\Debug\тетрис.pdb
+C:\Users\Администратор.BEST-K858VCP102.001\Documents\Visual Studio 2008\Projects\тетрис\тетрис\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Администратор.BEST-K858VCP102.001\Documents\Visual Studio 2008\Projects\тетрис\тетрис\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Администратор.BEST-K858VCP102.001\Documents\Visual Studio 2008\Projects\тетрис\тетрис\obj\Debug\тетрис.csproj.GenerateResource.Cache
+C:\Users\Администратор.BEST-K858VCP102.001\Documents\Visual Studio 2008\Projects\тетрис\тетрис\obj\Debug\WindowsFormsApplication1.Resource1.resources
+C:\Users\Администратор.BEST-K858VCP102.001\Documents\Visual Studio 2008\Projects\тетрис\тетрис\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Администратор.BEST-K858VCP102.001\Documents\Visual Studio 2008\Projects\тетрис\тетрис\obj\Debug\тетрис.csprojResolveAssemblyReference.cache
+C:\Users\v15\source\repos\тетрис\тетрис\bin\Debug\тетрис.exe
+C:\Users\v15\source\repos\тетрис\тетрис\bin\Debug\тетрис.pdb
+C:\Users\v15\source\repos\тетрис\тетрис\obj\Debug\тетрис.csprojAssemblyReference.cache
+C:\Users\v15\source\repos\тетрис\тетрис\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\v15\source\repos\тетрис\тетрис\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\v15\source\repos\тетрис\тетрис\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\v15\source\repos\тетрис\тетрис\obj\Debug\WindowsFormsApplication1.Resource1.resources
+C:\Users\v15\source\repos\тетрис\тетрис\obj\Debug\тетрис.csproj.GenerateResource.cache
+C:\Users\v15\source\repos\тетрис\тетрис\obj\Debug\тетрис.csproj.CoreCompileInputs.cache
+C:\Users\v15\source\repos\тетрис\тетрис\obj\Debug\тетрис.exe
+C:\Users\v15\source\repos\тетрис\тетрис\obj\Debug\тетрис.pdb
