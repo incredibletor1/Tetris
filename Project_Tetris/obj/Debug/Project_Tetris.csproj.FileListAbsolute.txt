@@ -2,7 +2,6 @@ C:\Users\v15\source\repos\Project_Tetris\Project_Tetris\bin\Debug\тетрис.e
 C:\Users\v15\source\repos\Project_Tetris\Project_Tetris\bin\Debug\тетрис.pdb
 C:\Users\v15\source\repos\Project_Tetris\Project_Tetris\obj\Debug\Project_Tetris.csprojAssemblyReference.cache
 C:\Users\v15\source\repos\Project_Tetris\Project_Tetris\obj\Debug\WindowsFormsApplication1.Form1.resources
-C:\Users\v15\source\repos\Project_Tetris\Project_Tetris\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\v15\source\repos\Project_Tetris\Project_Tetris\obj\Debug\WindowsFormsApplication1.Resource1.resources
 C:\Users\v15\source\repos\Project_Tetris\Project_Tetris\obj\Debug\Project_Tetris.csproj.GenerateResource.cache
 C:\Users\v15\source\repos\Project_Tetris\Project_Tetris\obj\Debug\Project_Tetris.csproj.CoreCompileInputs.cache
